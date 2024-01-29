@@ -1,0 +1,480 @@
+{
+  "Cricket":[
+    {"q": "Who is known as the 'God of Cricket'?",
+     "a": ["Sachin Tendulkar", "Ricky Ponting", "Brian Lara", "Jacques Kallis"],
+     "c": "Sachin Tendulkar"},
+    
+    {"q": "In which country did the first officially recognized cricket match take place?",
+     "a": ["England", "Australia", "India", "West Indies"],
+     "c": "England"},
+    
+    {"q": "What is the highest individual score in a Test match innings?",
+     "a": ["364", "375", "400", "501"],
+     "c": "400"},
+    
+    {"q": "Which country has won the most ICC Cricket World Cups?",
+     "a": ["Australia", "India", "West Indies", "Pakistan"],
+     "c": "Australia"},
+    
+    {"q": "Who holds the record for the most runs in a single edition of the ICC Cricket World Cup?",
+     "a": ["Sachin Tendulkar", "Ricky Ponting", "Virat Kohli", "Martin Guptill"],
+     "c": "Martin Guptill"},
+    
+    {"q": "What is a hat-trick in cricket?",
+     "a": ["Three wickets in three balls", "Three wickets in an over", "Three runs off three balls", "Three centuries in a series"],
+     "c": "Three wickets in three balls"},
+    
+    {"q": "Which cricketer has scored the most international centuries?",
+     "a": ["Sachin Tendulkar", "Ricky Ponting", "Virat Kohli", "Kumar Sangakkara"],
+     "c": "Sachin Tendulkar"},
+    
+    {"q": "What does LBW stand for in cricket?",
+     "a": ["Leg Before Wicket", "Long Boundary Width", "Last Batsman Wins", "Legends' Best Wickets"],
+     "c": "Leg Before Wicket"},
+    
+    {"q": "Who was the first cricketer to score a double century in One Day Internationals (ODIs)?",
+     "a": ["Rohit Sharma", "Virender Sehwag", "Sachin Tendulkar", "Chris Gayle"],
+     "c": "Sachin Tendulkar"},
+    
+    {"q": "In which city is the Melbourne Cricket Ground (MCG) located?",
+     "a": ["Sydney", "Melbourne", "Adelaide", "Brisbane"],
+     "c": "Melbourne"},
+    
+    {"q": "Which bowler has taken the most wickets in Test cricket?",
+     "a": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "James Anderson"],
+     "c": "Muttiah Muralitharan"},
+    
+    {"q": "Who is the fastest bowler to reach 100 wickets in One Day Internationals (ODIs)?",
+     "a": ["Wasim Akram", "Saqlain Mushtaq", "Mitchell Starc", "Trent Boult"],
+     "c": "Mitchell Starc"},
+    
+    {"q": "What is the distance between the popping crease and the stumps in cricket?",
+     "a": ["20 yards", "22 yards", "24 yards", "26 yards"],
+     "c": "22 yards"},
+    
+    {"q": "Which cricket team is known as the 'Men in Blue'?",
+     "a": ["Australia", "India", "England", "South Africa"],
+     "c": "India"},
+    
+    {"q": "Who is the captain of the Indian cricket team in Test matches as of 2022?",
+     "a": ["Rohit Sharma", "Virat Kohli", "Ajinkya Rahane", "Cheteshwar Pujara"],
+     "c": "Virat Kohli"},
+    
+    {"q": "What is the name of the trophy awarded to the winner of an India vs Pakistan Test series?",
+     "a": ["Border-Gavaskar Trophy", "Ashes", "Freedom Trophy", "Friendship Cup"],
+     "c": "Friendship Cup"},
+    
+    {"q": "Who hit six sixes in an over during a T20 World Cup match in 2007?",
+     "a": ["Yuvraj Singh", "Chris Gayle", "Shahid Afridi", "Brendon McCullum"],
+     "c": "Yuvraj Singh"},
+    
+    {"q": "What is the Duckworth-Lewis method used for in cricket?",
+     "a": ["Calculating net run rate", "Determining the winner in rain-affected matches", "Measuring player fitness", "Umpire decision review"],
+     "c": "Determining the winner in rain-affected matches"},
+    
+    {"q": "Who holds the record for the highest individual score in a T20 International match?",
+     "a": ["Chris Gayle", "Aaron Finch", "Rohit Sharma", "David Malan"],
+     "c": "Aaron Finch"},
+    
+    {"q": "Which cricket stadium is known as the 'Home of Cricket'?",
+     "a": ["Wankhede Stadium", "Lord's Cricket Ground", "Eden Gardens", "Sydney Cricket Ground"],
+     "c": "Lord's Cricket Ground"}
+],
+  "History":[
+    {"q": "Which ancient civilization built the pyramids in Giza?",
+     "a": ["Mesopotamians", "Egyptians", "Greeks", "Romans"],
+     "c": "Egyptians"},
+    
+    {"q": "Who was the first President of the United States?",
+     "a": ["Thomas Jefferson", "John Adams", "George Washington", "James Madison"],
+     "c": "George Washington"},
+    
+    {"q": "In what year did Christopher Columbus first reach the Americas?",
+     "a": ["1492", "1607", "1776", "1498"],
+     "c": "1492"},
+    
+    {"q": "What event marked the start of World War I?",
+     "a": ["Assassination of Archduke Franz Ferdinand", "Treaty of Versailles", "Bombing of Pearl Harbor", "Battle of Stalingrad"],
+     "c": "Assassination of Archduke Franz Ferdinand"},
+    
+    {"q": "Who was the leader of Nazi Germany during World War II?",
+     "a": ["Joseph Stalin", "Benito Mussolini", "Adolf Hitler", "Winston Churchill"],
+     "c": "Adolf Hitler"},
+    
+    {"q": "Which empire was ruled by Julius Caesar and Augustus Caesar?",
+     "a": ["Roman Empire", "Ottoman Empire", "Byzantine Empire", "Persian Empire"],
+     "c": "Roman Empire"},
+    
+    {"q": "The Industrial Revolution began in which country?",
+     "a": ["France", "Germany", "England", "United States"],
+     "c": "England"},
+    
+    {"q": "Who wrote the 'Communist Manifesto' with Friedrich Engels?",
+     "a": ["Karl Marx", "Vladimir Lenin", "Leon Trotsky", "Joseph Stalin"],
+     "c": "Karl Marx"},
+    
+    {"q": "Which ancient civilization is known for its contributions to philosophy, democracy, and theater?",
+     "a": ["Babylonians", "Greeks", "Egyptians", "Persians"],
+     "c": "Greeks"},
+    
+    {"q": "The Renaissance period originated in which city?",
+     "a": ["Paris", "Florence", "Rome", "Athens"],
+     "c": "Florence"},
+    
+    {"q": "What was the main cause of the American Civil War?",
+     "a": ["Economic differences", "Slavery", "Religious conflicts", "Western expansion"],
+     "c": "Slavery"},
+    
+    {"q": "Which country was the first to circumnavigate the globe?",
+     "a": ["Spain", "Portugal", "England", "Netherlands"],
+     "c": "Spain"},
+    
+    {"q": "Who was the queen of ancient Egypt known for her alliance with Julius Caesar and Mark Antony?",
+     "a": ["Nefertiti", "Hatshepsut", "Cleopatra", "Nefertari"],
+     "c": "Cleopatra"},
+    
+    {"q": "The Treaty of Versailles, ending World War I, was signed in which year?",
+     "a": ["1917", "1918", "1919", "1920"],
+     "c": "1919"},
+    
+    {"q": "Which Asian country was divided into North and South after World War II?",
+     "a": ["China", "Japan", "Vietnam", "Korea"],
+     "c": "Korea"},
+    
+    {"q": "Who is considered the father of modern physics and formulated the theory of relativity?",
+     "a": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Niels Bohr"],
+     "c": "Albert Einstein"},
+    
+    {"q": "Which famous explorer led the first expedition to circumnavigate the Earth?",
+     "a": ["Ferdinand Magellan", "Marco Polo", "Christopher Columbus", "James Cook"],
+     "c": "Ferdinand Magellan"},
+    
+    {"q": "The Great Depression, a severe worldwide economic downturn, began in which decade?",
+     "a": ["1920s", "1930s", "1940s", "1950s"],
+     "c": "1930s"},
+    
+    {"q": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+     "a": ["Nikita Khrushchev", "Joseph Stalin", "Leon Trotsky", "Vladimir Lenin"],
+     "c": "Nikita Khrushchev"},
+    
+    {"q": "Which ancient civilization is known for its contributions to mathematics and the concept of zero?",
+     "a": ["Sumerians", "Egyptians", "Greeks", "Indians"],
+     "c": "Indians"}
+],
+  "General Knowledge":[
+    {"q": "What is the capital of France?",
+    "a": ["Berlin", "London", "Paris", "Rome"],
+    "c": "Paris"},
+   
+   {"q": "Who wrote 'Romeo and Juliet'?",
+    "a": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+    "c": "William Shakespeare"},
+   
+   {"q": "What is the largest planet in our solar system?",
+    "a": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "c": "Jupiter"},
+   
+   {"q": "In which year did the Titanic sink?",
+    "a": ["1905", "1912", "1920", "1931"],
+    "c": "1912"},
+   
+   {"q": "Who is known as the 'Father of Computer Science'?",
+    "a": ["Alan Turing", "Bill Gates", "Steve Jobs", "Tim Berners-Lee"],
+    "c": "Alan Turing"},
+   
+   {"q": "What is the currency of Japan?",
+    "a": ["Won", "Yuan", "Ringgit", "Yen"],
+    "c": "Yen"},
+   
+   {"q": "What is the largest ocean on Earth?",
+    "a": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+    "c": "Pacific Ocean"},
+   
+   {"q": "Who painted the Mona Lisa?",
+    "a": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "c": "Leonardo da Vinci"},
+   
+   {"q": "Which planet is known as the 'Red Planet'?",
+    "a": ["Venus", "Mars", "Mercury", "Uranus"],
+    "c": "Mars"},
+   
+   {"q": "What is the longest river in the world?",
+    "a": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "c": "Amazon River"},
+   
+   {"q": "Who wrote 'To Kill a Mockingbird'?",
+    "a": ["J.K. Rowling", "Harper Lee", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "c": "Harper Lee"},
+   
+   {"q": "Which element has the chemical symbol 'O'?",
+    "a": ["Osmium", "Oxygen", "Oganesson", "Olivine"],
+    "c": "Oxygen"},
+   
+   {"q": "What is the largest mammal on Earth?",
+    "a": ["Elephant", "Giraffe", "Blue Whale", "Kangaroo"],
+    "c": "Blue Whale"},
+   
+   {"q": "Which country is known as the 'Land of the Rising Sun'?",
+    "a": ["China", "South Korea", "Japan", "Vietnam"],
+    "c": "Japan"},
+   
+   {"q": "Who invented the telephone?",
+    "a": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "c": "Alexander Graham Bell"},
+   
+   {"q": "In which year did the first moon landing occur?",
+    "a": ["1962", "1969", "1975", "1981"],
+    "c": "1969"},
+   
+   {"q": "Which gas makes up the majority of Earth's atmosphere?",
+    "a": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "c": "Nitrogen"},
+   
+   {"q": "Who is the author of '1984'?",
+    "a": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Jules Verne"],
+    "c": "George Orwell"},
+   
+   {"q": "What is the largest desert in the world?",
+    "a": ["Gobi Desert", "Sahara Desert", "Antarctica", "Arabian Desert"],
+    "c": "Antarctica"},
+   
+   {"q": "What is the speed of light in a vacuum?",
+    "a": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "c": "300,000 km/s"}
+],
+  "Entertainment":[
+    {"q": "Who played the character of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+    "a": ["Chris Hemsworth", "Chris Evans", "Robert Downey Jr.", "Mark Ruffalo"],
+    "c": "Robert Downey Jr."},
+   
+   {"q": "Which animated film features a young lion cub named Simba?",
+    "a": ["Frozen", "The Lion King", "Moana", "Toy Story"],
+    "c": "The Lion King"},
+   
+   {"q": "Who is the lead singer of the rock band Queen?",
+    "a": ["Freddie Mercury", "Roger Taylor", "Brian May", "John Deacon"],
+    "c": "Freddie Mercury"},
+   
+   {"q": "Which TV series follows the lives of the Bluth family and their dysfunctional business?",
+    "a": ["Arrested Development", "The Office", "Breaking Bad", "Stranger Things"],
+    "c": "Arrested Development"},
+   
+   {"q": "In the Harry Potter series, who is the headmaster of Hogwarts School of Witchcraft and Wizardry?",
+    "a": ["Severus Snape", "Remus Lupin", "Albus Dumbledore", "Minerva McGonagall"],
+    "c": "Albus Dumbledore"},
+   
+   {"q": "Who directed the movie 'The Shawshank Redemption'?",
+    "a": ["Steven Spielberg", "Christopher Nolan", "Frank Darabont", "Quentin Tarantino"],
+    "c": "Frank Darabont"},
+   
+   {"q": "Which actress played the character of Elle Woods in the film 'Legally Blonde'?",
+    "a": ["Reese Witherspoon", "Cameron Diaz", "Jennifer Aniston", "Scarlett Johansson"],
+    "c": "Reese Witherspoon"},
+   
+   {"q": "In the TV series 'Friends', what is the name of Ross and Monica's father?",
+    "a": ["Jack", "Bob", "Richard", "Frank"],
+    "c": "Jack"},
+   
+   {"q": "Which film won the Academy Award for Best Picture in 2020?",
+    "a": ["Parasite", "1917", "Joker", "The Shape of Water"],
+    "c": "Parasite"},
+   
+   {"q": "Who won the first season of 'American Idol'?",
+    "a": ["Kelly Clarkson", "Adam Lambert", "Carrie Underwood", "Jennifer Hudson"],
+    "c": "Kelly Clarkson"},
+   
+   {"q": "In the TV series 'Breaking Bad', what is Walter White's alias when he becomes involved in the drug trade?",
+    "a": ["Heisenberg", "Scarface", "Mr. Blue", "The Cook"],
+    "c": "Heisenberg"},
+   
+   {"q": "Which film features a character named Forrest Gump?",
+    "a": ["The Green Mile", "Goodfellas", "Forrest Gump", "The Godfather"],
+    "c": "Forrest Gump"},
+   
+   {"q": "Who is the author of the 'Harry Potter' book series?",
+    "a": ["J.K. Rowling", "George R.R. Martin", "Stephen King", "Suzanne Collins"],
+    "c": "J.K. Rowling"},
+   
+   {"q": "Which actor starred as Neo in the science fiction film 'The Matrix'?",
+    "a": ["Keanu Reeves", "Hugo Weaving", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "c": "Keanu Reeves"},
+   
+   {"q": "Which music streaming service is known for its playlists and algorithm-based recommendations?",
+    "a": ["Spotify", "Apple Music", "Tidal", "Deezer"],
+    "c": "Spotify"},
+   
+   {"q": "Who played the role of Jack Dawson in the film 'Titanic'?",
+    "a": ["Leonardo DiCaprio", "Tom Hanks", "Johnny Depp", "Brad Pitt"],
+    "c": "Leonardo DiCaprio"},
+   
+   {"q": "In which year did the first episode of 'The Simpsons' air?",
+    "a": ["1989", "1994", "2001", "1990"],
+    "c": "1989"},
+   
+   {"q": "Which actor portrayed the character of James Bond in the movie 'Skyfall'?",
+    "a": ["Daniel Craig", "Pierce Brosnan", "Sean Connery", "Roger Moore"],
+    "c": "Daniel Craig"},
+   
+   {"q": "Who won the Academy Award for Best Actress for her role in 'La La Land'?",
+    "a": ["Emma Watson", "Meryl Streep", "Jennifer Lawrence", "Emma Stone"],
+    "c": "Emma Stone"}
+],
+  "Movies":[
+    {"q": "Who played the lead role in the Bollywood movie 'Dilwale Dulhania Le Jayenge'?",
+     "a": ["Shah Rukh Khan", "Aamir Khan", "Salman Khan", "Ranbir Kapoor"],
+     "c": "Shah Rukh Khan"},
+    
+    {"q": "Which Hollywood actor starred in the iconic role of 'The Joker' in the film 'The Dark Knight'?",
+     "a": ["Christian Bale", "Heath Ledger", "Tom Hardy", "Joaquin Phoenix"],
+     "c": "Heath Ledger"},
+    
+    {"q": "In the Bollywood film 'Sholay', who played the role of Gabbar Singh?",
+     "a": ["Amitabh Bachchan", "Amjad Khan", "Dharmendra", "Sanjeev Kumar"],
+     "c": "Amjad Khan"},
+    
+    {"q": "Which Hollywood film won the Academy Award for Best Picture in 1994?",
+     "a": ["Forrest Gump", "Pulp Fiction", "The Shawshank Redemption", "Schindler's List"],
+     "c": "Forrest Gump"},
+    
+    {"q": "In the Bollywood movie 'Kabhi Khushi Kabhie Gham', who played the character of Rahul?",
+     "a": ["Shah Rukh Khan", "Hrithik Roshan", "Amitabh Bachchan", "Ranbir Kapoor"],
+     "c": "Shah Rukh Khan"},
+    
+    {"q": "Which Hollywood film features a character named 'Tony Stark'?",
+     "a": ["The Dark Knight", "Avengers: Endgame", "Iron Man", "Spider-Man: Homecoming"],
+     "c": "Iron Man"},
+    
+    {"q": "Who directed the Bollywood film '3 Idiots'?",
+     "a": ["Rajkumar Hirani", "Karan Johar", "Farhan Akhtar", "Zoya Akhtar"],
+     "c": "Rajkumar Hirani"},
+    
+    {"q": "Which Hollywood film tells the story of a man stranded on a deserted island with a volleyball named 'Wilson'?",
+     "a": ["Cast Away", "Life of Pi", "The Revenant", "Survivor"],
+     "c": "Cast Away"},
+    
+    {"q": "In the Bollywood film 'Dangal', who played the role of Mahavir Singh Phogat?",
+     "a": ["Aamir Khan", "Salman Khan", "Akshay Kumar", "Shah Rukh Khan"],
+     "c": "Aamir Khan"},
+    
+    {"q": "Which Hollywood actor starred in the title role of the film 'Forrest Gump'?",
+     "a": ["Tom Hanks", "Brad Pitt", "Leonardo DiCaprio", "Johnny Depp"],
+     "c": "Tom Hanks"},
+    
+    {"q": "In the Bollywood movie 'DDLJ', what is the name of Simran's father?",
+     "a": ["Bauji", "Chaudhary Baldev Singh", "Papa Ji", "Lalit Verma"],
+     "c": "Chaudhary Baldev Singh"},
+    
+    {"q": "Which Hollywood film features a character named 'Ellen Ripley' and involves a deadly extraterrestrial creature?",
+     "a": ["The Terminator", "Predator", "Alien", "E.T. the Extra-Terrestrial"],
+     "c": "Alien"},
+    
+    {"q": "Who won the Academy Award for Best Actor for his role in the film 'The Revenant'?",
+     "a": ["Brad Pitt", "Leonardo DiCaprio", "Joaquin Phoenix", "Matthew McConaughey"],
+     "c": "Leonardo DiCaprio"},
+    
+    {"q": "In the Bollywood film 'Shahenshah', who played the dual roles of Vijay Kumar and 'Shahenshah'?",
+     "a": ["Amitabh Bachchan", "Dharmendra", "Rajnikanth", "Jeetendra"],
+     "c": "Amitabh Bachchan"},
+    
+    {"q": "Which Hollywood film is based on the life of physicist Stephen Hawking?",
+     "a": ["A Beautiful Mind", "The Theory of Everything", "Interstellar", "Gravity"],
+     "c": "The Theory of Everything"},
+    
+    {"q": "In the Bollywood movie 'Andaz Apna Apna', who played the character of 'Amar'?",
+     "a": ["Aamir Khan", "Salman Khan", "Shakti Kapoor", "Paresh Rawal"],
+     "c": "Aamir Khan"},
+    
+    {"q": "Which Hollywood film features a character named 'Luke Skywalker'?",
+     "a": ["Star Trek", "Star Wars: Episode IV - A New Hope", "Guardians of the Galaxy", "Interstellar"],
+     "c": "Star Wars: Episode IV - A New Hope"},
+    
+    {"q": "Who directed the Bollywood film 'Lagaan'?",
+     "a": ["Karan Johar", "Sanjay Leela Bhansali", "Rajkumar Hirani", "Ashutosh Gowariker"],
+     "c": "Ashutosh Gowariker"},
+    
+    {"q": "Which Hollywood animated film features a clownfish searching for his son in the Great Barrier Reef?",
+     "a": ["Finding Nemo", "Shark Tale", "The Little Mermaid", "Toy Story"],
+     "c": "Finding Nemo"}
+],
+  "Science":[
+    {"q": "What is the chemical symbol for gold?",
+    "a": ["Au", "Ag", "Fe", "Cu"],
+    "c": "Au"},
+   
+   {"q": "Which gas is most abundant in Earth's atmosphere?",
+    "a": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "c": "Nitrogen"},
+   
+   {"q": "What is the powerhouse of the cell?",
+    "a": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "c": "Mitochondria"},
+   
+   {"q": "What is the largest organ in the human body?",
+    "a": ["Heart", "Brain", "Liver", "Skin"],
+    "c": "Skin"},
+   
+   {"q": "What is the process by which plants make their own food?",
+    "a": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "c": "Photosynthesis"},
+   
+   {"q": "Which planet is known as the 'Red Planet'?",
+    "a": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "c": "Mars"},
+   
+   {"q": "What is the chemical formula for water?",
+    "a": ["CO2", "H2O", "O2", "NaCl"],
+    "c": "H2O"},
+   
+   {"q": "Who is credited with the discovery of penicillin?",
+    "a": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+    "c": "Alexander Fleming"},
+   
+   {"q": "What is the speed of light in a vacuum?",
+    "a": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "c": "300,000 km/s"},
+   
+   {"q": "Which element has the chemical symbol 'Fe'?",
+    "a": ["Iron", "Iodine", "Fluorine", "Indium"],
+    "c": "Iron"},
+   
+   {"q": "What is the smallest unit of matter?",
+    "a": ["Molecule", "Atom", "Cell", "Particle"],
+    "c": "Atom"},
+   
+   {"q": "What is the process by which plants lose water through small openings on their leaves?",
+    "a": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+    "c": "Transpiration"},
+   
+   {"q": "What is the chemical symbol for the element oxygen?",
+    "a": ["O", "O2", "O3", "O4"],
+    "c": "O"},
+   
+   {"q": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "a": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "c": "Carbon Dioxide"},
+   
+   {"q": "What is the process of converting a solid directly into vapor without passing through the liquid state?",
+    "a": ["Sublimation", "Evaporation", "Condensation", "Melting"],
+    "c": "Sublimation"},
+   
+   {"q": "What is the largest bone in the human body?",
+    "a": ["Femur", "Tibia", "Humerus", "Radius"],
+    "c": "Femur"},
+   
+   {"q": "Which scientist formulated the laws of motion and universal gravitation?",
+    "a": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "c": "Isaac Newton"},
+   
+   {"q": "What is the chemical formula for table salt?",
+    "a": ["NaCl", "HCl", "KCl", "MgCl2"],
+    "c": "NaCl"},
+   
+   {"q": "Which gas is responsible for the Earth's ozone layer?",
+    "a": ["Oxygen", "Methane", "Nitrogen", "Ozone"],
+    "c": "Ozone"},
+   
+   {"q": "What is the chemical symbol for the element with atomic number 1?",
+    "a": ["H", "He", "Li", "Be"],
+    "c": "H"}
+]
+}
